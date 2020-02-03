@@ -16,6 +16,9 @@ This code uses some layers and groundwork from [glow-pytorch](https://github.com
 
 The code has minimal dependencies. You need python 3.6+ and up to date versions of:
 
+- conda install pytorch==1.1.0 torchvision  tqdm  cudatoolkit=10.0 -c pytorch
+- pip install pytorch-ignite
+
 ```
 pytorch (tested on 1.1.0)
 torchvision
