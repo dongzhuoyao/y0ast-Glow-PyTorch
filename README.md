@@ -18,6 +18,8 @@ The code has minimal dependencies. You need python 3.6+ and up to date versions 
 
 - conda install pytorch==1.1.0 torchvision  tqdm  cudatoolkit=10.0 -c pytorch
 - pip install pytorch-ignite
+- conda install pillow=6.1
+
 
 ```
 pytorch (tested on 1.1.0)
